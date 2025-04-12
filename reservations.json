@@ -1,0 +1,105 @@
+[
+  {
+    "id": "RES-3328",
+    "apartment": {
+      "id": 4,
+      "name": "1 person",
+      "description": "best for single person. cozy single bed and fully equiped kitchennete",
+      "capacity": 1,
+      "size": 26,
+      "price": 33,
+      "image": "img/1 (16).jpg",
+      "featured": false,
+      "amenities": [
+        "Free Wi-Fi",
+        "Kitchenette",
+        "Air Conditioning",
+        "Smart TV"
+      ]
+    },
+    "checkIn": "2025-04-24",
+    "checkOut": "2025-04-30",
+    "nights": 6,
+    "adults": "1",
+    "children": "0",
+    "totalPrice": 198,
+    "guestDetails": {
+      "firstName": "sam",
+      "lastName": "namii",
+      "email": "tflow.sam@gmail.com",
+      "phone": "5745643223",
+      "specialRequests": ""
+    },
+    "status": "confirmed",
+    "createdAt": "2025-04-11T21:55:06.295Z"
+  },
+  {
+    "id": "RES-2683",
+    "apartment": {
+      "id": 5,
+      "name": "Shared studio",
+      "description": "ideal for whom is seeking for more affordable rent. studio with two single bed to share",
+      "capacity": 2,
+      "size": 44,
+      "price": 22,
+      "image": "img/apartment-1744409673354-36068949.jpg",
+      "featured": false,
+      "amenities": [
+        "Free Wi-Fi",
+        "Kitchenette",
+        "Air Conditioning",
+        "Smart TV"
+      ]
+    },
+    "checkIn": "2025-04-15",
+    "checkOut": "2025-04-17",
+    "nights": 2,
+    "adults": "1",
+    "children": "0",
+    "totalPrice": 44,
+    "guestDetails": {
+      "firstName": "vini",
+      "lastName": "namii",
+      "email": "samcodehub@gmail.com",
+      "phone": "5745643223",
+      "specialRequests": "more towels"
+    },
+    "status": "cancelled",
+    "createdAt": "2025-04-11T22:15:40.041Z"
+  },
+  {
+    "id": "RES-1045",
+    "apartment": {
+      "id": 2,
+      "name": "Deluxe Studio",
+      "description": "Spacious studio with city views, featuring a king-sized bed, fully equipped kitchen, working area, and luxurious bathroom with rainfall shower.",
+      "capacity": 2,
+      "size": 40,
+      "price": 105,
+      "image": "img/1 (3).jpg",
+      "featured": true,
+      "amenities": [
+        "Free Wi-Fi",
+        "Full Kitchen",
+        "Air Conditioning",
+        "Smart TV",
+        "Work Desk"
+      ]
+    },
+    "checkIn": "2025-04-18",
+    "checkOut": "2025-04-20",
+    "nights": 2,
+    "adults": "1",
+    "children": "0",
+    "totalPrice": 210,
+    "guestDetails": {
+      "firstName": "jjj",
+      "lastName": "jokooo",
+      "email": "mehraban15167@gmail.com",
+      "phone": "5745643444",
+      "specialRequests": ""
+    },
+    "status": "cancelled",
+    "createdAt": "2025-04-12T00:00:23.789Z"
+  }
+]

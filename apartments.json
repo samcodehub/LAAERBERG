@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Apartment (2 Adults)",
+    "description": "Cozy studio apartment with a comfortable queen-sized bed, fully equipped kitchenette, and modern bathroom. Perfect for solo travelers or couples.",
+    "capacity": 2,
+    "size": 30,
+    "price": 85,
+    "image": "img/apartment-1744417508691-996482773.jpg",
+    "featured": true,
+    "amenities": [
+      "Free Wi-Fi",
+      "Kitchenette",
+      "Air Conditioning",
+      "Smart TV"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Apartment (3 Adults)",
+    "description": "Spacious studio with city views, featuring a king-sized bed and a sofa, fully equipped kitchen, working area, and luxurious bathroom with rainfall shower.",
+    "capacity": 3,
+    "size": 50,
+    "price": 105,
+    "image": "img/apartment-1744417626524-21145568.jpg",
+    "featured": true,
+    "amenities": [
+      "Free Wi-Fi",
+      "Kitchenette",
+      "Air Conditioning",
+      "Smart TV"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Apartment (1 Adult)",
+    "description": "best for single person. cozy single bed and fully equiped kitchennete",
+    "capacity": 1,
+    "size": 26,
+    "price": 33,
+    "image": "img/apartment-1744417733406-855495588.jpg",
+    "featured": false,
+    "amenities": [
+      "Free Wi-Fi",
+      "Kitchenette",
+      "Air Conditioning",
+      "Smart TV"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Single Room",
+    "description": "Compact and functional room perfect for the solo traveler on a budget who still wants privacy and comfort.",
+    "capacity": 1,
+    "size": 22,
+    "price": 25,
+    "image": "img/apartment-1744418513293-998012209.jpg",
+    "featured": false,
+    "amenities": [
+      "Free Wi-Fi",
+      "Kitchenette",
+      "Air Conditioning",
+      "Smart TV"
+    ]
+  }
+]
